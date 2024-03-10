@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img width="150px" src="https://cdn.discordapp.com/attachments/1058292470141698058/1065269783014162552/Asset_2.png">
+<img width="150px" src="SPACETYPE.png">
 <a/>
 <br/>
 <strong>A retro typing trainer and game set in space.</strong>
@@ -24,7 +24,7 @@ That's essentially what Space Type is.
 
 A typing trainer, tester, and game. But it's disguised as a game where you train to navigate a spaceship, test your skills, and use them to defend from incoming invaders.  
                                                                                 
-<img src="https://cdn.discordapp.com/attachments/1058292470141698058/1064952526773956700/image.png" alt="Space Type main">
+
                                                                               
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -62,22 +62,22 @@ Touch typing tutorial
 <img src="https://cdn.discordapp.com/attachments/1058292470141698058/1063875789675835433/image.png" alt="Space Type tutorial">
 
 Main menu of Train screen
-<img src="https://cdn.discordapp.com/attachments/970871088542273537/1064985966395277452/Screenshot_128.png" alt="Space Type train">
+<img src="main_menu.png" alt="Space Type train">
 
-Options to choose rows
-<img src="https://cdn.discordapp.com/attachments/970871088542273537/1064985966684676117/Screenshot_129.png" alt="Space Type train menu">
+Options to choose difficulty
+<img src="https://github.com/Regenerate38/SpaceType/blob/main/difficulty.png" alt="Space Type train menu">
 
 Practicing Letters
-<img src="https://cdn.discordapp.com/attachments/1058292470141698058/1065297614284795986/image.png" alt="Space Type practicing letters">
+<img src="train_letters.png" alt="Space Type practicing letters">
 
-Practicing Words
-<img src="https://cdn.discordapp.com/attachments/970871088542273537/1064985966995050696/Screenshot_130.png" alt="Space Type practicing letters">
+Test Mode
+<img src="test.png" alt="Space Type practicing letters">
 
 Result screen
-<img src="https://cdn.discordapp.com/attachments/1058292470141698058/1064197543468220526/Screenshot_118.png" alt="Space Type practicing letters">
+<img src="game_result.png" alt="Space Type practicing letters">
 
 Pause screen
-<img src="https://cdn.discordapp.com/attachments/1058292470141698058/1065305821489152152/image.png" alt="Space Type practicing letters">
+<img src="pause_screen.png" alt="Space Type practicing letters">
 
 
 
